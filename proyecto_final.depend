@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1623103979 source:d:\programacion\c++\proyecto_final\main.cpp
+	<stdio.h>
+	<conio.h>
+	<cstdlib>
+	<time.h>
+	<iostream>
+	<cstdio>
+	<sstream>
+
